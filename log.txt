@@ -1,0 +1,15 @@
+Name: Billy searched for Chicago, Illinois at 1524617736690Name: rich searched for Boston,,MA at 1524620239193Name: rich searched for Boston,,MA at 1524620243170Name: rich searched for Denver,,CO at 1524620251517Name: rich searched for Boston,,MA at 2018-04-24
+Name: rich searched for Boston,,MA at 2018-04-24T20:53:49-05:00
+Name: rich searched for chicago,,IL at 2018-04-24T21:01:13-05:00
+Name: keith searched for chicago,,IL at 2018-04-24T21:02:02-05:00
+Name: rodrigo searched for chicago,,IL at 2018-04-24T21:10:50-05:00
+Name: rodrigo searched for chicago,,IL at 2018-04-24T21:10:52-05:00
+Name: rodrigo searched for chicago,,IL at 2018-04-24T21:10:53-05:00
+Name: rodrigo searched for chicago,,IL at 2018-04-24T21:11:37-05:00
+Name: rodrigo searched for chicago,,IL at 2018-04-24T21:11:39-05:00
+Name: rodrigo searched for chicago,,IL at 2018-04-24T21:11:40-05:00
+Name: rodrigo searched for chicago,,IL at 2018-04-24T21:11:54-05:00
+Name: susy searched for Los,Angeles,,California at 2018-04-24T21:12:34-05:00
+Name: susy searched for Los,Angeles,,California at 2018-04-24T21:12:34-05:00
+Name: susy searched for Los,Angeles,,California at 2018-04-24T21:14:34-05:00
+Name: susy searched for Los,Angeles,,California at 2018-04-24T21:14:34-05:00
